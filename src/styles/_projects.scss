@@ -1,5 +1,5 @@
 #projects {
-  display: relative;
+  display: flex;
   flex-direction: column;
   justify-content: space-between;
   width: 90%;
@@ -38,14 +38,14 @@
 
 .contents-right {
   @media only screen and (min-width: $cut) {
-    float: right;
+    float: center;
     margin-top: -5%;
     width: 48%;
   }
 }
 .images-right {
   @media only screen and (min-width: $cut) {
-    display : relative ;
+    float: right;
     width: 48%;
   }
   img {
