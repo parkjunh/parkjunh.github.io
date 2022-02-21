@@ -4936,7 +4936,7 @@ sup, sub {
           justify-content: space-between;
   width: 90%;
   max-width: 960px;
-  margin: 0 300px;
+  margin: 0 auto;
 }
 
 @media only screen and (min-width: 550px) {
@@ -4986,7 +4986,7 @@ sup, sub {
 @media only screen and (min-width: 550px) {
   .images-right {
     float: right;
-    width: 32%;
+    width: 48%;
   }
 }
 
