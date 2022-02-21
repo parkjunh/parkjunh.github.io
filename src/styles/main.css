@@ -4936,7 +4936,7 @@ sup, sub {
           justify-content: space-between;
   width: 90%;
   max-width: 960px;
-  margin: 0 auto;
+  margin: 0 300px;
 }
 
 @media only screen and (min-width: 550px) {
